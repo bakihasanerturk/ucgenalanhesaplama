@@ -1,0 +1,2 @@
+# ucgenalanhesaplama
+Üçgen alan hesaplama
